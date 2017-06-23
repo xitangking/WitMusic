@@ -8,7 +8,7 @@ import android.os.IBinder;
 import android.support.annotation.Nullable;
 
 /********************************************************************************
- * using for:
+ * using for: 音乐播放服务类
  * 丁酉鸡年四月 2017/06/23 22:02
  * @author 西唐王, xtwyzh@gmail.com,blog.xtwroot.com
  * xtwroot Copyrights (c) 2017. All rights reserved.
